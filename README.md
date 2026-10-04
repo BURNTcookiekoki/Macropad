@@ -2,6 +2,8 @@
 
 A small Macropad with 4 buttons inline for extra functionallities that your keyboards might miss
 
+I created this because of the lack of programable keys on cheaper keyboards which are very useful and are only found on high end keyboards.
+
 # Features
 
 4 inline programable keys for gaming or for office work it suits everyone for at home use.
